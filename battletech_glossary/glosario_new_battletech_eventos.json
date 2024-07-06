@@ -1,0 +1,18 @@
+{
+    "metadatos": {
+        "lore": "NewBattletech",
+        "nota": "Debido a la pérdida de registros durante la guerra, no se sabe a ciencia cierta el año actual y existen diferentes fechas para algunos reinos."
+    },
+    "eventos": [
+        {
+            "fecha_aproximada": "Desconocida",
+            "reino": "Federación de Soles",
+            "evento": "Reorganización de las fuerzas armadas."
+        },
+        {
+            "fecha_aproximada": "Desconocida",
+            "reino": "Mancomunidad de Lira",
+            "evento": "Reconstrucción de las ciudades principales."
+        }
+    ]
+}

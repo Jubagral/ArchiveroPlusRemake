@@ -1,0 +1,82 @@
+[
+    {
+        "termino": "Cañón automático",
+        "definicion": "Arma de carga automática y disparo rápido, con un calibre que oscila entre 30 y 120 mm, dependiendo del tipo de vehículo."
+    },
+    {
+        "termino": "BattleMech",
+        "definicion": "Máquinas de guerra humanoides de grandes dimensiones, diseñadas hace más de 500 años, equipadas con diversas armas y un pequeño reactor de fusión."
+    },
+    {
+        "termino": "CPP",
+        "definicion": "Abreviatura de Cañón de Proyección de Partículas, un arma que dispara rayos de protones o iones de alta energía."
+    },
+    {
+        "termino": "MCA",
+        "definicion": "Abreviatura de Misil de Corto Alcance, un misil de trayectoria directa con cabezas altamente explosivas."
+    },
+    {
+        "termino": "MLA",
+        "definicion": "Abreviatura de Misil de Largo Alcance, un misil de trayectoria indirecta con una cabeza altamente explosiva."
+    },
+    {
+        "termino": "Naves de Salto",
+        "definicion": "Naves espaciales capaces de 'saltar' de un punto del espacio a otro utilizando el hiperpropulsor Kearny-Fuchida."
+    },
+    {
+        "termino": "Naves de Descenso",
+        "definicion": "Naves utilizadas para viajes interplanetarios, acopladas a las Naves de Salto, que pueden despegar y aterrizar en superficies planetarias."
+    },
+    {
+        "termino": "Hiperpropulsor Kearny-Fuchida",
+        "definicion": "Tecnología que permite a las Naves de Salto moverse instantáneamente de un punto del espacio a otro."
+    },
+    {
+        "termino": "DropShip",
+        "definicion": "Naves de descenso que transportan tropas, vehículos y BattleMechs desde una Nave de Salto a la superficie de un planeta."
+    },
+    {
+        "termino": "JumpShip",
+        "definicion": "Naves espaciales equipadas con el hiperpropulsor Kearny-Fuchida, capaces de realizar saltos interestelares."
+    },
+    {
+        "termino": "Armas láser",
+        "definicion": "Armas que disparan haces de energía concentrada."
+    },
+    {
+        "termino": "Blindaje de Ferro Fibroso",
+        "definicion": "Un tipo de blindaje avanzado más ligero y resistente."
+    },
+    {
+        "termino": "Blindaje estándar",
+        "definicion": "El tipo de blindaje más común utilizado en BattleMechs."
+    },
+    {
+        "termino": "Cañón Gauss",
+        "definicion": "Arma que utiliza un sistema magnético para lanzar proyectiles a alta velocidad."
+    },
+    {
+        "termino": "Computadora de combate",
+        "definicion": "Sistema avanzado que ayuda a los pilotos de BattleMechs en combate."
+    },
+    {
+        "termino": "Misil de largo alcance (LRM)",
+        "definicion": "Misil que puede atacar objetivos a grandes distancias."
+    },
+    {
+        "termino": "Misil de corto alcance (SRM)",
+        "definicion": "Misil utilizado para combates cercanos."
+    },
+    {
+        "termino": "Plasma Rifle",
+        "definicion": "Arma que dispara un chorro de plasma supercalentado."
+    },
+    {
+        "termino": "Reactor de fusión",
+        "definicion": "Fuente de energía que alimenta a los BattleMechs."
+    },
+    {
+        "termino": "Sensores",
+        "definicion": "Dispositivos que permiten a los BattleMechs detectar y rastrear enemigos."
+    }
+]

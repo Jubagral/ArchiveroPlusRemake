@@ -1,0 +1,16 @@
+{
+    "metadatos": {
+        "lore": "Classic Battletech",
+        "nota": "Los eventos ocurren en fechas claras y específicas."
+    },
+    "eventos": [
+        {
+            "fecha": "3025",
+            "evento": "Inicio de la Cuarta Guerra de Sucesión."
+        },
+        {
+            "fecha": "3050",
+            "evento": "Invasión de los Clanes."
+        }
+    ]
+}
