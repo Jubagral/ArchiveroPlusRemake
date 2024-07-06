@@ -1,26 +1,21 @@
-name: Analyze Novel
+name: Actualizar Registros
 
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Check out the repository
+    - name: Checkout repository
       uses: actions/checkout@v2
-
-    - name: Set up Python
+    - name: Setup Python
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
-
-    - name: Install dependencies
+    - name: Run script to update registros
       run: |
-        pip install textblob language-tool-python gensim matplotlib networkx
-
-    - name: Run analysis
-      run: |
-        python main.py
-      env:
-        FILE_PATH: novela.txt
+        # Aquí puedes agregar el código para actualizar y organizar los registros
+        # Por ejemplo, usar scripts de Python para procesar archivos y moverlos a las carpetas correspondientes
